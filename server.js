@@ -20,7 +20,7 @@ app.get('/article-two',function(req,res){
 });
 app.get('/article-three',function(req,res){
 
-    res.sendfile("Article three will be served here");
+    res.sendFile("Article three will be served here");
 });
 
 
