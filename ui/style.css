@@ -25,3 +25,11 @@ body {
                color: blue;
                padding-top: 60px;
                max-width: 800px;            }
+.footer {
+    background-color:#707070;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+
