@@ -30,6 +30,7 @@ app.get('/ui/profile.jpg', function (req, res) {
 app.get('/ui/Cricket_PNG_logo.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'Cricket_PNG_logo.png'));
 });
+
 app.get('/ui/madi.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'madi.png'));
 });
