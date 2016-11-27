@@ -18,7 +18,7 @@
       margin-bottom: 30px;
   }
   .jumbotron {
-      background: url(\ui\cricket2.jpg);
+      background: url(/ui/cricket2.jpg);
        background-size: 1350px 500px;      
       color: #fff;
       padding: 100px 25px;
